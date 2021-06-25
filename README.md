@@ -40,3 +40,8 @@ Caused by: com.oracle.svm.core.jdk.UnsupportedFeatureError: Defining classes fro
 	at clojure.lang.Compiler.analyzeSeq(Compiler.java:7109)
 	... 9 more
 ```
+
+### Links
+- https://huongdanjava.com/install-graalvm-on-macos.html
+- https://github.com/BrunoBonacci/graalvm-clojure/blob/master/doc/clojure-graalvm-native-binary.md
+- https://github.com/hypirion/lein-shell/blob/master/doc/DOCUMENTATION.md
